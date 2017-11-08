@@ -1,3 +1,3 @@
-#Javascript Style Guides
+# Javascript Style Guides
 
-##List of style guides
+## List of style guides
